@@ -23,7 +23,7 @@ python3 --version
 
 
 Clone the Repository (if you're using GitHub)
-git clone https://github.com/your-username/enhanced-calculator.git
+git clone https://github.com/KrishanSalgotra/enhanced-calculator.git
    cd enhanced-calculator
 
 
